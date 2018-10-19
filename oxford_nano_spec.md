@@ -1,8 +1,12 @@
 # Oxford Nanopore Minion Cost Considerations
 
 Richard Tillett
+
 NV INBRE Bioinformatics
+
 Nevada Center for Bioinformatics
+
+ca. October 2018
 
 [Oxford Nanopore Technologies](https://nanoporetech.com) (ONT) sells a portable, real-time DNA sequencer, MinION, that is radically compact, plugs into your PC via USB 3.0, and is purportedly cheap. Is it cheap enough to use in a classroom setting as a credible sequencing device? This report doesn't attempt to speak much about the credibility of the deivce. Suffice to say, I wouldn't offer it for consideration if I thought it lacked merit. It isn't high-throughput enough to do dozens of quantitative RNA-seq samples like an Illumina is, but if you want rapid sequencing or sequencing of very long molecules, the device shines. I hope the info provided helps in cost determination.
 
