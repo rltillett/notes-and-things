@@ -9,7 +9,7 @@ Nevada Center for Bioinformatics
 ## How much does it cost?
 From [the MinION product page](https://nanoporetech.com/products/minion), (emphasis added):
 > The MinION is commercially available, simply by paying a starter-pack fee of **$1,000**. The MinION starter pack includes materials you need to run initial sequencing experiments, including a MinION device, flow cells and kits, as well as membership of the Nanopore Community.
->
+
 Here's what comes in that $1000 starter pack. For the new customer $1000 basic package, you'd get:
 
 Basic Starter Pack | $1,000.00
