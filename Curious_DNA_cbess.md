@@ -104,6 +104,6 @@ Let's modify the DNA necklace method to try to generate samples compatible with 
 * Load it up
 * Analyze it together next Friday 7/19
 
-Now, to the board:
+Now, to the ELMO:
 
 ## Links to alcohols: [https://bitesizebio.com/2839/dna-precipitation-ethanol-vs-isopropanol/](https://bitesizebio.com/2839/dna-precipitation-ethanol-vs-isopropanol/)
