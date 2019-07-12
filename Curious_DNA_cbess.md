@@ -1,7 +1,11 @@
 # A Curious DNA Puzzle
 
 _7/12/2019_
+
+
 _Richard Tillett, Bioinformaticist, Nevada INBRE &_
+
+
 _Joseph Wilcox, Nevada INBRE_
 
 
